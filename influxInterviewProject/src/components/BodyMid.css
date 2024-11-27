@@ -1,0 +1,5 @@
+.bodymid-container{padding-top:100px;height:600px;margin:0 auto;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;color:#fff}.bodymid-heading{letter-spacing:18px;font-size:44px;color:#d3cccc}.bodymid-description{font-size:18px;color:#d3cccc;font-weight:300}
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+    .bodymid-container{padding-top:50px;height:400px}.bodymid-heading{letter-spacing:9px;font-size:28px}.bodymid-description{font-size:14px}
+}
